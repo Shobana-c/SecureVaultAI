@@ -163,7 +163,6 @@ Verify OTP
 ## Author
 
 **C. Shobana**
-
-Final Year Student
-
+Kingston Engineering College Vellore
+B.Tech Computer Science and Business Systems Final Year Student
 SecureVault AI Project
